@@ -6,3 +6,6 @@ def add_numbers(number):
 
 def hello_world():
     print("Hello world")
+
+def multiply_numbers(a,b):
+    return a * b
